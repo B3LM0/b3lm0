@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boualem</h1>
 <h3 align="center">Full-Stack Junior Developer | Data Science & Machine Learning Student</h3>
 
-- 🔭 I’m currently working on [Veto-Stane](https://veto-stane.vercel.app/)
-
 - 🌱 I’m currently learning **Data science**
 
 - 👨‍💻 All of my projects are available at [https://b3lmportfolio.vercel.app/](https://b3lmportfolio.vercel.app/)
